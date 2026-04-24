@@ -1,8 +1,6 @@
 <?php
 
-// rahul kumar
-
-echo "";
+// rahulL
 
 include_once('includes/config.php');
 
