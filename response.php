@@ -3,7 +3,7 @@
 
 include_once('includes/config.php');
 
-// show PHP errors
+// show PHP errors and mistakes
 ini_set('display_errors', 1);
 
 // output any connection error
